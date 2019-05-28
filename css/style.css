@@ -269,6 +269,7 @@ footer {
       overflow: hidden;
       height: 40px;
       background: url(./images/arrow-back.svg) no-repeat 200px 16px #3B3B3B;
+      z-index: 5;
       width: 228px;
       margin: -25px 0 33px;
       border-radius: 2px; }
