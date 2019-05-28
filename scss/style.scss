@@ -308,7 +308,7 @@ footer {
         .select-container {
             overflow: hidden; 
             height: 40px;
-            background: url(/images/arrow-back.svg) no-repeat 200px 16px #3B3B3B/* center *//*  right */;
+            background: url(./images/arrow-back.png) no-repeat 200px 16px #3B3B3B/* center *//*  right */;
             width: 228px;
             margin: -25px 0 33px;
             border-radius: 2px;
@@ -891,7 +891,6 @@ footer .arrow-up {
             margin-left: 0;
 
             li {
-                
                 margin: 2px 0 15px 0;
             }
         }
